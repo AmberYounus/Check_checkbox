@@ -1,0 +1,14 @@
+*{
+    font-family: emoji;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(254, 189, 48));
+}
+.container{  
+    font-size: 30px;
+    margin-left: 548px;
+    margin-top: 220px;
+
+}
+input.larger {
+    width: 37px;
+    height: 28px;
+  }
